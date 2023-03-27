@@ -1,0 +1,1 @@
+Hello, this repo was created to show potential recruiters previously completed labs in my Computer Logic and Design Class. This is in no way meant to assist students in cheating and was uploaded for the sole purpose of showcasing my experience
